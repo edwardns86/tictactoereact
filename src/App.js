@@ -46,6 +46,7 @@ function App() {
   }
 
   const responseGoogle = (response) => {
+    console.log(currentUser)
     setCurrentUser({
       name: response.profileObj.name,
       email: response.profileObj.email,
@@ -56,7 +57,7 @@ function App() {
       name: response.name,
       email: response.email,
     }))
-      ;
+    console.log(currentUser) ;
   }
 
   const getHighScoreTable = async () => {
