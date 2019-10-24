@@ -7,9 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  - [x] X and O Are Entered Alternately
  - [x] User Cannot Click On Previously Played Square
  - [x] Game Is Set To Over In Case Of A Draw
- - [] Game Is Set To Over In Case Of A Win 
- - [] User Sees Game Info In UI 
- - []
+ - [x] Game Is Set To Over In Case Of A Win 
+ - [x] User Sees Game Info In UI 
+ - [x] Facebook Login
+ - [x] Google Login 
 
 
 
