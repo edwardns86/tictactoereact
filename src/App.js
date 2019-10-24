@@ -46,7 +46,7 @@ function App() {
   }
 
   const responseGoogle = (response) => {
-    console.log(currentUser)
+    console.log(response)
     setCurrentUser({
       name: response.profileObj.name,
       email: response.profileObj.email,
