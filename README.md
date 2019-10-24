@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### User Stories 
+ - [x] User Can See A 3x3 Grid
+ - [x] User Can Click A Square And Enter Value
+ - [x] X and O Are Entered Alternately
+ - [x] User Cannot Click On Previously Played Square
+ - [x] Game Is Set To Over In Case Of A Draw
+ - [] Game Is Set To Over In Case Of A Win 
+ - [] User Sees Game Info In UI 
+ - []
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
